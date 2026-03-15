@@ -7,3 +7,4 @@ session.load()
 # Print de resultaten
 print(session.results)
 
+#start
